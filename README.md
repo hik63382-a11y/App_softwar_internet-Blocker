@@ -1,7 +1,45 @@
 # App_softwar_internet-Blocker
 
 
+
 pass:- nzg73
+
+
+
+# nzgnzg 73
+
+
+![Screenshot 2026-01-24 024557](https://github.com/user-attachments/assets/50856335-8c4f-480b-87ee-efac59211108)
+
+
+---
+
+
+---
+
+## 📞 **Support & Contact**
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F39C12&center=true&vCenter=true&width=700&lines=Need+Help%3F+We're+Here!;Join+Our+Community;Get+Support+%26+Updates;Made+with+❤️+by+NZG73" alt="Contact Animation" />
+</div>
+
+<br>
+
+### 👤 **Created by NZG73**
+
+| Platform | Link |
+|----------|------|
+| 📺 **YouTube** | [@NZG73](https://youtube.com/@NZG73) |
+| 🌐 **Website** | [nzg73.blogspot.com](https://nzg73.blogspot.com) |
+| 📧 **Email** | nzgnzg73@gmail.com |
+| 🐛 **Report Bugs** | [GitHub Issues](https://github.com/nzgnzg73/TTS-Video-to-SRT-VC/issues) |
+| ⭐ **GitHub** | [Star this Repo](https://github.com/nzgnzg73/TTS-Video-to-SRT-VC) |
+
+---
+
+
+
+
 
 
 <img width="299" height="168" alt="download" src="https://github.com/user-attachments/assets/c8c818be-3cdd-49c1-9add-ef262e0542f7" />
